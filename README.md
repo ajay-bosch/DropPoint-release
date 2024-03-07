@@ -1,3 +1,4 @@
+.
 # DropPoint - Make Drag 'n' Drop easier [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FGameGodS3%2FDropPoint)](https://twitter.com/intent/tweet?text=Checkout%20this%20cool%20project!&url=https%3A%2F%2Fgithub.com%2FGameGodS3%2FDropPoint)
 
 ![DropPoint](https://github.com/GameGodS3/DropPoint/raw/main/static/media/droppoint-social-cover.jpg)
